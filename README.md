@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @0mmmm
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning how to be nice to people
-- 💞️ I’m looking to collaborate on TSML
 - 📫 How to reach me meganredway@gmail.com
 
 <!---
